@@ -28,9 +28,13 @@ Authors
 =======
 
 Peter Christen [a,b], Rainer Schnell [c], Thilina Ranbaduge [a,d], and Anushka Vidanage [a]
+
   a School of Computing, The Australian National University, Canberra, Australia
+  
   b University of Leipzig and ScaDS.AI, Leipzig, Germany
+  
   c University of Duisburg-Essen, Duisburg, Germany
+  
   d Data61, Black Mountain, Canberra, Australia
 
 Contact: peter.christen@anu.edu.au
