@@ -1,7 +1,10 @@
+#A Critique and Attack on “Blockchain-based Privacy-Preserving Record Linkage Enhancing Data
+Privacy in an Untrusted Environment
+
 This archive contains code and data sets to run the atom Bloom filter based attack described in:
 
-  "A Critique and Attack on “Blockchain-based Privacy-Preserving Record Linkage Enhancing Data
-  Privacy in an Untrusted Environment”
+"A Critique and Attack on “Blockchain-based Privacy-Preserving Record Linkage Enhancing Data
+Privacy in an Untrusted Environment”
 
 The attack illustrates the privacy flaws of the blockchain based privacy-preserving record linkage
 protocol proposed by Nobrega et al. (Information Systems, 2021).
